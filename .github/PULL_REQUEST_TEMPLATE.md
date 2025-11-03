@@ -1,9 +1,9 @@
 <!-- Guidelines: https://docs.spacestation14.io/en/getting-started/pr-guideline -->
-<!-- NOTE: All code submitted to this repository is ALWAYS licensed under the AGPL-3.0-or-later license. 
-The REUSE Specification headers or separate .license files indicate a secondary license (e.g., MPL or MIT) solely to facilitate 
-integration for projects that do not use the AGPL license. This secondary license does not replace the fact that AGPL-3.0-or-later remains the primary and binding license. 
+<!-- NOTE: All code submitted to this repository is ALWAYS licensed under the AGPL-3.0-or-later license.
+The REUSE Specification headers or separate .license files indicate a secondary license (e.g., MPL or MIT) solely to facilitate
+integration for projects that do not use the AGPL license. This secondary license does not replace the fact that AGPL-3.0-or-later remains the primary and binding license.
 
-IF YOU ARE PORTING A FEAUTRE: Please make sure that the license is supported and that you are using the appropriate license. For example, anything from Wizard's Den is MIT.
+IF YOU ARE PORTING A FEATURE: Please make sure that the license is supported and that you are using the appropriate license. For example, anything from Wizard's Den is MIT.
 
 Uncomment and modify the following line if you wish to change the license from the default of AGPL.
 -->
@@ -18,7 +18,7 @@ Uncomment and modify the following line if you wish to change the license from t
 <!-- Summary of code changes for easier review. -->
 
 ## Media
-<!-- Attach media if the PR makes ingame changes (clothing, items, features, etc). 
+<!-- Attach media if the PR makes ingame changes (clothing, items, features, etc).
 Small fixes/refactors are exempt. Media may be used in SS14 progress reports with credit. -->
 
 ## Requirements
